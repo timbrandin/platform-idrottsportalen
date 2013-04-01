@@ -1,6 +1,6 @@
 module.exports = (grunt) ->
   # Project configuration.
-  themePath = "web/profiles/ngbc/themes/custom/pretty"
+  themePath = "web/profiles/idrottsportalen/themes/custom/idpo"
   mainFile = themePath + "/css/main"
   paths = ["components/bootstrap/less", themePath + "/css/"]
   console.log mainFile + ".less"
@@ -11,7 +11,7 @@ module.exports = (grunt) ->
         options:
           paths: paths 
         files:
-          "web/profiles/idrottsportalen/themes/custom/pretty/css/main.css": "web/profiles/idrottsportalen/themes/custom/pretty/css/main.less"
+          "web/profiles/idrottsportalen/themes/custom/idpo/css/main.css": "web/profiles/idrottsportalen/themes/custom/idpo/css/main.less"
       production:
         options:
           paths: paths
