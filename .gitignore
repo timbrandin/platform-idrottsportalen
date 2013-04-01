@@ -1,2 +1,4 @@
 web/*
 .vagrant
+components/
+node_modules/

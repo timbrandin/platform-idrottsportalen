@@ -11,7 +11,7 @@ module.exports = (grunt) ->
         options:
           paths: paths 
         files:
-          "web/profiles/ngbc/themes/custom/pretty/css/main.css": "web/profiles/ngbc/themes/custom/pretty/css/main.less"
+          "web/profiles/idrottsportalen/themes/custom/pretty/css/main.css": "web/profiles/idrottsportalen/themes/custom/pretty/css/main.less"
       production:
         options:
           paths: paths

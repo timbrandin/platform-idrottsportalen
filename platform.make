@@ -12,10 +12,10 @@ core = 7.x
 ; Drupal project.
 projects[drupal] = 7.21
 
-;projects[idrottsportalen][type] = profile
-;projects[idrottsportalen][download][type] = git
-;projects[idrottsportalen][download][url] = git@github.com:timbrandin/profile-idrottsportalen.git
-;projects[idrottsportalen][download][branch] = master
+projects[idrottsportalen][type] = profile
+projects[idrottsportalen][download][type] = git
+projects[idrottsportalen][download][url] = git@github.com:timbrandin/profile-idrottsportalen.git
+projects[idrottsportalen][download][branch] = master
 
 
 
