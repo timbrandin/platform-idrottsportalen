@@ -10,7 +10,7 @@ core = 7.x
 
 
 ; Drupal project.
-projects[drupal] = 7.21
+projects[drupal] = 7.22
 
 projects[idrottsportalen][type] = profile
 projects[idrottsportalen][download][type] = git
